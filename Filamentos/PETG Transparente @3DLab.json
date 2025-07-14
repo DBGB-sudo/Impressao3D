@@ -1,0 +1,37 @@
+{
+    "fan_cooling_layer_time": [
+        "0"
+    ],
+    "fan_max_speed": [
+        "0"
+    ],
+    "fan_min_speed": [
+        "0"
+    ],
+    "filament_cost": [
+        "66.7"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "PETG Transparente @3DLab"
+    ],
+    "filament_vendor": [
+        "Closin"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @Elegoo",
+    "is_custom_defined": "0",
+    "name": "PETG Transparente @3DLab",
+    "nozzle_temperature": [
+        "245"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "slow_down_layer_time": [
+        "0"
+    ],
+    "version": "2.3.0.3"
+}

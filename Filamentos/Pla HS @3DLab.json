@@ -1,0 +1,16 @@
+{
+    "compatible_printers": [
+        "Elegoo Neptune 4 Pro (0.4 nozzle)"
+    ],
+    "filament_cost": [
+        "95"
+    ],
+    "filament_settings_id": [
+        "Pla HS @3DLab"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA High Speed @System",
+    "is_custom_defined": "0",
+    "name": "Pla HS @3DLab",
+    "version": "2.3.0.3"
+}

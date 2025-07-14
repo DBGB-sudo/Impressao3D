@@ -1,0 +1,22 @@
+{
+    "filament_cost": [
+        "66.7"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "PETG @Closin"
+    ],
+    "filament_vendor": [
+        "Closin"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @Elegoo",
+    "is_custom_defined": "0",
+    "name": "PETG @Closin",
+    "nozzle_temperature": [
+        "245"
+    ],
+    "version": "2.3.0.3"
+}
